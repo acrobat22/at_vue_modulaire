@@ -26,6 +26,18 @@
 	  </nav>
 	</header>
 
+	<div class="container">
+		<div class="row">
+			<div class="col s12 m6 center">
+				<p>Hello Word</p>
+			</div>
+			<div class="col s12 m6 center">
+				<p>Hello WCS</p>
+			</div>
+		</div>
+		
+	</div>
+
 	<!-- Appel Script -->
   	<script
 			  src="https://code.jquery.com/jquery-3.1.0.min.js"
